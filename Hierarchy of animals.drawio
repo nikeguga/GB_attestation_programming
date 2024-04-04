@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-04-04T22:54:41.802Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R1CB4fe7lRaGf2i2V2qM" version="24.2.2" type="device">
+  <diagram name="Страница — 1" id="C9JcmK2tHb9iEmM835gk">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jA5oliw7Bcenofi3OBHf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-1" target="jA5oliw7Bcenofi3OBHf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-1" target="jA5oliw7Bcenofi3OBHf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-1" target="jA5oliw7Bcenofi3OBHf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-1" value="Baggage animals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-2" target="jA5oliw7Bcenofi3OBHf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="140" />
+              <mxPoint x="650" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-2" target="jA5oliw7Bcenofi3OBHf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jA5oliw7Bcenofi3OBHf-2" target="jA5oliw7Bcenofi3OBHf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-2" value="Pets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-3" value="Horses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-4" value="Camels" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-5" value="Donkeys" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-6" value="Dogs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-7" value="Hamsters" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA5oliw7Bcenofi3OBHf-8" value="Cats" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
